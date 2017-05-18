@@ -1,2 +1,2 @@
 # springboot-scheduler-templates
-springbok scheduler templates project
+springboot scheduler templates project
